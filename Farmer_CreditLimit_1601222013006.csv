@@ -1,0 +1,4 @@
+recid,memberid,sanctionedloanamount,membercreditlimit,creditreleasedays,releaseamount,lmsid,farmername,processed_amount,memberName,memberSamId,customerId,fpoguarantorid,memberMobileNumber
+3,482,30000,null,0,1000,null,BBBB,null,Sunil Kumar MV,2020-1001-0910-0001,190,10100,8607423832
+5,482,30000,null,20,14000,null,BBBB,null,Sunil Kumar MV,2020-1001-0910-0001,190,10100,8607423832
+6,482,30000,null,10,5000,null,BBBB,null,Sunil Kumar MV,2020-1001-0910-0001,190,10100,8607423832
